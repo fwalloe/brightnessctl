@@ -29,7 +29,7 @@ passed, use arrow up to get the 100 command again)
 	$brightness 100
 	$brightness 0
 
-The birghtness should have chagned.
+The birghtness should have changed.
 Now you can setup keybindings to this script for your favorite window manager!
 
 ## Key binding (i3)
